@@ -190,9 +190,4 @@
     </footer>
 
 </body>
-<script>
-    setInterval(()=>{
-        window.location.reload();
-    },2000)
-</script>
 </html>
